@@ -1,7 +1,7 @@
 #theme: jekyll-theme-minimal
 remote_theme: eliottvincent/bay
 
-header:
+header: Charlene Tang
   pages:
     - name: About
       slug: /
@@ -13,14 +13,11 @@ header:
       link: interests.md
     
 footer:
-  show_powered_by: false
+  show_powered_by: true
   contact:
     - name: Email
       value: charleneostang@yahoo.com
       link: mailto:charleneostang@yahoo.com
-    - name: WeChat
-      value: Calendly
-      link: https://calendly.com/charleneostang/30min
   follow:
     - name: LinkedIn
       link: http://linkedin.com/in/charleneostang
