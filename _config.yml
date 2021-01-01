@@ -5,16 +5,20 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Projects  
-    - name: Interests  
+    - name: Projects
+      slug: /projects
+      link: projects.md
+    - name: Interests
+      slug: /interests
+      link: interests.md
     
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: charleneostang@yahoo.com
       link: mailto:charleneostang@yahoo.com
-    - name: Phone
+    - name: WeChat
       value: Calendly
       link: https://calendly.com/charleneostang/30min
   follow:
