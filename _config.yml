@@ -1,7 +1,8 @@
 #theme: jekyll-theme-minimal
 remote_theme: eliottvincent/bay
 
-title: cslt
+site:
+  title: cslt
 
 header: Charlene Tang
   pages:
