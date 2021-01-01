@@ -1,7 +1,9 @@
+---
 layout: home
 profile_picture:
   src: Charlene_Tang.jpg
-  ![ProfilePicture](Charlene_Tang.jpg)
+  alt: Profile picture
+---
 
 # Charlene Tang
 
