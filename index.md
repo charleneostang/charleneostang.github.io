@@ -5,10 +5,12 @@ profile_picture:
   alt: Profile picture
 ---
 
-# Charlene Tang
+<p>
+Welcome!
+</p>
 
 ## About
-[CV](CV_Charlene_Tang_2020-12.pdf)
+I think of my work in terms of themes and drivers. For a summary, you can view [my CV.](CV_Charlene_Tang_2020-12.pdf)
 
 ## Contact
 Drop me an [email](emailto:charleneostang@yahoo.com) or [message](http://linkedin.com/in/charleneostang) and [let's chat!](https://calendly.com/charleneostang/30min)
