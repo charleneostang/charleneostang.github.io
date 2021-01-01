@@ -1,3 +1,5 @@
+For more detail, you can view [my CV](CV_Charlene_Tang_2020-12.pdf). In sum:
+
 # Business projects
 Over the past 2 years, I have expanded my skill set across the innovation ecosystem:
 
