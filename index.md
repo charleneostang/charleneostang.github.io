@@ -21,7 +21,7 @@ I graduated from Trinity College, University of Cambridge with a First-in-Class 
 
 I have gathered over 15 months of academic [research](projects.md) experience, from tumour immunology and virology, to bioinformatics and synthetic biology. Over the past 2 years, I have expanded my business skill set across the innovation ecosystem. 
 
-I am [driven by](interests.md) increasing access to scientific understanding, technological advances, and potential.
+I am [driven by](interests.md) increasing access to scientific understanding, technological advances, and opportunities for self development.
 
 ## Contact
 Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang). Always up for a chat, check out my [Calendly](https://calendly.com/charleneostang/30min).
