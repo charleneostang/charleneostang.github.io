@@ -7,7 +7,8 @@ profile_picture:
 
 # Charlene Tang
 
-## Home
+## About
 [CV](CV_Charlene_Tang_2020-12.pdf)
 
-## Projects
+## Contact
+Drop me an [email](emailto:charleneostang@yahoo.com) or [message](http://linkedin.com/in/charleneostang) and [let's chat!](https://calendly.com/charleneostang/30min)
