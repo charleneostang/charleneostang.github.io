@@ -14,13 +14,13 @@ When I'm not working, I am reading, playing music, and exploring. Wherever I am,
 
 ## Projects & Interests
 
+For a summary, you can [view my CV.](CV_Charlene_Tang_2020-12.pdf)
+
 I graduated from Trinity College, University of Cambridge with a First-in-Class Masters in Natural Sciences, where I specialised in Biochemistry. 
 
 [Projects](projects.md): I have gathered over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology. Over the past 2 years, I have expanded my business skill set across the innovation ecosystem. 
 
 [Interests](interests.md): I am driven by increasing access to scientific understanding, technological advances, and potential.
-
-For a summary, you can [view my CV.](CV_Charlene_Tang_2020-12.pdf)
 
 ## Contact
 Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang). Always up for a chat, check out my [Calendly](https://calendly.com/charleneostang/30min).
