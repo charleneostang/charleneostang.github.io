@@ -4,7 +4,6 @@ profile_picture:
   src: Charlene_Tang.jpg
   alt: Profile picture
 ---
-## About
 
 I am a scientist, generalist and tea enthusiast. 
 
