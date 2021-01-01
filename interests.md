@@ -1,11 +1,11 @@
 # Constant improvement
 I am driven by overcoming life challenges. I have navigated cultural dynamics and survived family health emergencies by making these barriers my fuel. 
 
-I am mixed (half Chinese, half Irish) and grew up in 5 countries across 3 continents (HK, Singapore, Korea, Brazil, UK). This enables me to bridge the gap betweeen conflicting cultures and approaches. 
+* I am mixed (half Chinese, half Irish) and grew up in 5 countries across 3 continents (HK, Singapore, Korea, Brazil, UK). This enables me to bridge the gap betweeen conflicting cultures and approaches. 
 
-My mother was diagnosed with late-stage cervical cancer in 2009 and passed away a year later. Following the confusion surrounding her diagnosis and treatment options, I dedicated my learnings and [research projects](projects.md) to understanding scientfic principles and furthering technological advances.
+* My mother was diagnosed with late-stage cervical cancer in 2009 and passed away a year later. Following the confusion surrounding her diagnosis and treatment options, I dedicated my learnings and [research projects](projects.md) to understanding scientfic principles and furthering technological advances.
 
-In 2017 and 2019, my father suffered from a series of strokes and now lives with heart failure. This fuelled my time at Heartfelt Technologies, a MedTech developing an in-home monitoring device to predict heart failure hospitalisation, where I evaluated their technology by talking to the team, patients and their carers.
+* In 2017 and 2019, my father suffered from a series of strokes and now lives with heart failure. This fuelled my time at Heartfelt Technologies, a MedTech developing an in-home monitoring device to predict heart failure hospitalisation, where I evaluated their technology by talking to the team, patients and their carers.
 
 Altogether, these learning curves have consolidated my determination for kaizen (constant improvement) in myself and those I reach.
 
