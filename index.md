@@ -5,7 +5,8 @@ profile_picture:
   alt: Profile picture
 ---
 
-<p>
+
+
 I am a scientist, generalist and tea enthusiast. 
 
 I lead Business Development at [Cyted](cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
