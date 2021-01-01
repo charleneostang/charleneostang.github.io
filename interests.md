@@ -13,7 +13,7 @@ Altogether, these learning curves have consolidated my determination for kaizen 
 
 I am determined to support others in their own journey towards awareness, resilience and purpose. Over the past 4 years, I have mentored my peers through life transitions: University, summer internships, PhD research, and now, alternate routes across the innnovation ecosystem.
 
-One of the my highlights of my summers: volunteering at annual Residentials at Trinity College to encourage access to higher Education: [read more here](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/).
+One of the highlights of my summers: volunteering at annual Residentials at Trinity College to encourage access to higher Education: [read more here](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/).
  
 # Communicate understanding
 Over the past 5 years, I have founded, supported and led over 5 student societies.
