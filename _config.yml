@@ -1,9 +1,6 @@
 #theme: jekyll-theme-minimal
 remote_theme: charleneostang/bay
 
-site:
-  title: Charlene Tang
-
 header:
   pages:
     - name: About
