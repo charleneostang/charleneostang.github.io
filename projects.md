@@ -1,8 +1,8 @@
-For more detail, you can view [my CV](CV_Charlene_Tang_2020-12.pdf). In sum:
+For more detail, you can view [my CV](CV_Charlene_Tang_2021-01.pdf). In sum:
 
 # Business projects
 
-I lead Business Development at Cyted, a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer. I joined two weeks after graduating from my Masters, and our team of 10 is now over 28-strong. Here, my responsibilities include developing business strategy and growth, building commercial and research partnerships, managing customer relationships, as well as designing our communications, marketing and brand strategy.
+I lead Business Development at Cyted, a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer. I joined two weeks after completing my Masters examinations, and our team of 10 is now over 28-strong. Here, my responsibilities include developing business strategy and growth, building commercial and research partnerships, managing customer relationships, as well as designing our communications, marketing and brand strategy.
 
 Over the past 2 years, I have expanded my skill set across the innovation ecosystem through:
 * Due diligence for seed investment into early stage healthcare companies with the Start Codon Accelerator
