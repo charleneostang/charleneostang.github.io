@@ -5,8 +5,12 @@ header:
   pages:
     - name: About
       slug: /
-    - name: Projects  
-    - name: Interests  
+    - name: Projects
+      slug: /projects
+      link: projects.md
+    - name: Interests
+      slug: /interests
+      link: interests.md
     
 footer:
   show_powered_by: false
