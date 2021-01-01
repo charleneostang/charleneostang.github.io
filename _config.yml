@@ -1,5 +1,5 @@
-#theme: jekyll-theme-minimal
-remote_theme: charleneostang/bay
+theme: jekyll-theme-minimal
+#remote_theme: charleneostang/bay
 
 site:
   title: Charlene Tang
