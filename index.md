@@ -7,7 +7,13 @@ profile_picture:
 # Charlene Tang
 ## About
 
-I am a scientist, generalist and tea enthusiast. I graduated from Trinity College, University of Cambridge with a First-in-Class Masters in Natural Sciences specialising in Biochemistry. I am currently leading business development at [Cyted](cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
+I am a scientist, generalist and tea enthusiast. 
+
+I graduated from Trinity College, University of Cambridge with a First-in-Class Masters in Natural Sciences, where I specialised in Biochemistry. 
+
+My strengths are illustrated through [my breadth of projects](projects.md). I gathered over 15 months of academic research experience from tumour immunology and virology, to bioinformatics and synthetic biology. Over the past 2 years, I have expanded my skill set across the innovation ecosystem. My choices are driven by my [core values and interests](interests.md) in increasing access to scientific understanding, technological advances, and your potential.
+
+I am currently leading Business Development at [Cyted](cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
 
 When I'm not working, I am reading, walking or creating - with my piano, paint or food. Wherever I am, a cup of tea is not far.
 
