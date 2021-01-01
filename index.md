@@ -1,5 +1,14 @@
+---
+layout: home
+profile_picture:
+  src: Charlene_Tang.jpg
+---
+
+<p>
+  Welcome to mysite!
+</p>
+
 # Charlene Tang
-![Profile](Charlene_Tang.jpg)
 
 ## Home
 [CV](CV_Charlene_Tang_2020-12.pdf)
