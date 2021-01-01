@@ -4,9 +4,7 @@ profile_picture:
   src: Charlene_Tang.jpg
   alt: Profile picture
 ---
-
-
-
+\
 I am a scientist, generalist and tea enthusiast. 
 
 I lead Business Development at [Cyted](cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
@@ -24,4 +22,5 @@ I have gathered over 15 months of academic [research](projects.md) experience, f
 I am [driven by](interests.md) increasing access to scientific understanding, technological advances, and opportunities for self development.
 
 ## Contact
-Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang). Always up for a chat, check out my availability on [Calendly](https://calendly.com/charleneostang/30min).
+Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang). 
+Always up for a chat, check out my availability on [Calendly](https://calendly.com/charleneostang/30min).
