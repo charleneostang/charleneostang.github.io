@@ -2,9 +2,9 @@
 remote_theme: eliottvincent/bay
 
 site:
-  title: cslt
+  title: Charlene Tang
 
-header: Charlene Tang
+header:
   pages:
     - name: About
       slug: /
