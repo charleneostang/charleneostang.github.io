@@ -15,7 +15,7 @@ When I'm not working, I am reading, playing music, and exploring. Wherever I am,
 
 ## Projects & Interests
 
-For a summary, you can [view my CV.](CV_Charlene_Tang_2020-12.pdf)
+For a summary, you can [view my CV.](CV_Charlene_Tang_2021-01.pdf)
 
 I graduated from Trinity College, University of Cambridge with a First-in-Class Masters in Natural Sciences, where I specialised in Biochemistry. 
 
