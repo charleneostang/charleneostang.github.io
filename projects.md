@@ -1,14 +1,16 @@
 For more detail, you can view [my CV](CV_Charlene_Tang_2020-12.pdf). In sum:
 
 # Business projects
-Over the past 2 years, I have expanded my skill set across the innovation ecosystem:
 
+I lead Business Development at Cyted, a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer. I joined two weeks after graduating from my Masters, and our team of 10 is now over 28-strong. Here, my responsibilities include developing business strategy and growth, building commercial and research partnerships, managing customer relationships, as well as designing our communications, marketing and brand strategy.
+
+Over the past 2 years, I have expanded my skill set across the innovation ecosystem through:
 * Due diligence for seed investment into early stage healthcare companies with the Start Codon Accelerator
 * Gap Summit 2020 - an international, 10 month, virtual pitch competition and conference with the Global Biotech Revolution
 * 48h-pitch competitions at the Cambridge Judge Business School
-* Consulting on a market entry strategy for a gene therapy with IQVIA
-* Corporate marketing and recruitment with Wiser 
-* Data analysis and product experience evaluation with Heartfelt Technologies
+* Strategy consulting on market entry and launch of a disruptive gene therapy with IQVIA
+* Marketing and recruitment for 12 corporate clients (including Marshall Wace, Fidelity International, Bain & Co, EY) with the Wiser Academy
+* Data analysis and evaluation of patient/product experience with Heartfelt Technologies
 * Jane Street: Women in Trading & Technology
 
 Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
