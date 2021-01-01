@@ -1,14 +1,14 @@
-# Charlene Tang
-![Profile](Charlene_Tang.jpg)
+---
+layout: home
+profile_picture:
+  src: Charlene_Tang.jpg
+  alt: Profile picture
+---
 
-## Home
+# Charlene Tang
+
+## About
 [CV](CV_Charlene_Tang_2020-12.pdf)
 
-## Projects
-
 ## Contact
-[Email](mailto:charleneostang@yahoo.com)
-
-[Linkedin](https://www.linkedin.com/in/charleneostang/)
-
-[Let's chat!](https://calendly.com/charleneostang/30min)
+Drop me an [email](emailto:charleneostang@yahoo.com) or [message](http://linkedin.com/in/charleneostang) and [let's chat!](https://calendly.com/charleneostang/30min)
