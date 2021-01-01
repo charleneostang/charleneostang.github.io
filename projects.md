@@ -1,13 +1,15 @@
 # Business projects
-Over the past 2 years, I have expanded my skill set across the innovation ecosystem. Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
+Over the past 2 years, I have expanded my skill set across the innovation ecosystem:
 
-* The Start Codon Accelerator: due diligence for seed investment into early stage healthcare companies
-* Global Biotech Revolution: Gap Summit 2020 - an international, 10 month, virtual pitch competition and conference
-* 48h-pitch competitions at the Cambridge Judge Business School with PhD students and Post-doctoral scientists
+* Due diligence for seed investment into early stage healthcare companies with the Start Codon Accelerator
+* Gap Summit 2020 - an international, 10 month, virtual pitch competition and conference with the Global Biotech Revolution
+* 48h-pitch competitions at the Cambridge Judge Business School
 * Consulting on a market entry strategy for a gene therapy with IQVIA
 * Corporate marketing and recruitment with Wiser 
 * Data analysis and product experience evaluation with Heartfelt Technologies
 * Jane Street: Women in Trading & Technology
+
+Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
 
 # Research projects
 I have gathered over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
