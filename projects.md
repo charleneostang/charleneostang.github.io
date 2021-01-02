@@ -6,7 +6,7 @@ I lead Business Development at [Cyted](cyted.ai), a provider of digital diagnost
 
 Over the past 2 years, I have expanded my skill set across the innovation ecosystem through:
 * Due diligence for seed investment into early stage healthcare companies with the [Start Codon Accelerator](https://startcodon.co)
-* [Gap Summit 2020](https://www.gapsummit.com)- an international, 10 month, virtual pitch competition and conference with the [Global Biotech Revolution](http://globalbiotechrevolution.com)
+* [Gap Summit 2020](https://www.gapsummit.com) - an international, 10 month, virtual pitch competition and conference with the [Global Biotech Revolution](http://globalbiotechrevolution.com)
 * 48h-pitch competitions at the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/venture-creation-weekends-vcw/)
 * Strategy consulting on market entry and launch of a disruptive gene therapy with IQVIA and the [Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge/projects) Insights programme
 * Marketing and recruitment for 12 corporate clients (including Marshall Wace, Fidelity International, Bain & Co, EY) with the [Wiser Academy](https://wearewiser.com/academy)
