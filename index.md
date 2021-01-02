@@ -1,6 +1,6 @@
-<img src="Charlene_Tang.jpg"
+<img src="Charlene_Tang_crop.jpg"
      alt="Profile photo"
-     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
+     style="float: left; margin-right: 10px; margin-bottom: 15px;" />
    
 I am a scientist, generalist and tea enthusiast. 
 
