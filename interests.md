@@ -22,7 +22,7 @@ I mentor my peers through life transitions and learning curves:
 
 <img src="mrc-lmb_stonehouse.png"
      alt="At the MRC-LMB"
-     style="float: right; width: 50%; margin-left: 10px; margin-bottom: 10px;" />
+     style="float: right; width: 65%; margin-left: 10px; margin-bottom: 10px;" />
 
 This initiative has grown through my Science Societies across the University of Cambridge, my Sixth Form Bio & Chem Society, volunteering for platforms such as [ProjectAccess.org](https://projectaccess.org), and volunteering for Trinity College Access & Outreach (highlight: [the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/)).
 
