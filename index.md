@@ -1,11 +1,6 @@
----
-layout: home
-profile_picture:
-  src: Charlene_Tang.jpg
-  alt: Profile picture
----
-  
-  <br>  
+<img src="Charlene_Tang.jpg"
+     alt="Profile photo"
+     style="float: left; margin-right: 10px; margin-bottom: 10px;" />
    
 I am a scientist, generalist and tea enthusiast. 
 
