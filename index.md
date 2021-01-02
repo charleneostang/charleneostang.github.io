@@ -1,6 +1,6 @@
 <img src="Charlene_Tang_crop.jpg"
      alt="Profile photo"
-     style="float: left; width: 40%; margin-right: 20px; margin-bottom: 15px;" />
+     style="float: left; width: 50%; margin-right: 20px; margin-bottom: 15px;" />
    
 I am a scientist, generalist and tea enthusiast. 
 
@@ -17,5 +17,3 @@ I am driven by increasing access to scientific understanding, technological adva
 For more information on my [Projects](projects.md) and [Interests](interests.md), you can also [view my CV.](CV_Charlene_Tang_2021-01.pdf)
 
 Always enjoy chatting with like-minded individuals: check out my availability on [Calendly](https://calendly.com/charleneostang/30min).
-
-<!-- Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang).
