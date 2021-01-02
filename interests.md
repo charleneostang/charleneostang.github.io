@@ -20,8 +20,8 @@ I mentor my peers through life transitions and learning curves:
 *	UCAS applications and Oxbridge interviews
 * [British Biology Olympiad](https://ukbiologycompetitions.org) and Finals
 
-<img src="mrc-lmb_stonehouse.jpg"
-     alt="Profile photo"
+<img src="mrc-lmb_stonehouse.png"
+     alt="At the MRC-LMB"
      style="float: right; width: 50%; margin-right: 20px; margin-bottom: 10px;" />
 
 This initiative has grown through my Science Societies across the University of Cambridge, my Sixth Form Bio & Chem Society, volunteering for platforms such as [ProjectAccess.org](https://projectaccess.org), and volunteering for Trinity College Access & Outreach (highlight: [the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/)).
