@@ -29,7 +29,7 @@ Over the past 5 years, I have founded, supported and led over 5 student societie
 
 1. **As Co-President of the [Cambridge University Scientific Society](http://scisoc.com) (2018-19)**, I organised and chaired 15 lectures by leading academic researchers. I launched, coordinated, chaired and presented at our annual Academic & Industrial Internships Event for Undergraduates on scientific research and alternative directions, from biotech venture building to early-stage investment.
 
-2. **As Awareness Co-Ordinator at [Students for Global Health, Cambridge](https://studentsforglobalhealth.org) (2019)**, I managed a team of 7 to create publicity campaigns and workshops addressing global health issues, from sleep and mental health evenings in Colleges to classes on antimicrobial resistance for Year 9 students.
+2. **As Awareness Co-Ordinator at [Students for Global Health](https://studentsforglobalhealth.org), Cambridge (2019)**, I managed a team of 7 to create publicity campaigns and workshops addressing global health issues, from sleep and mental health evenings in Colleges to classes on antimicrobial resistance for Year 9 students.
 
 3. **As Publicity Officer of the [Trinity College Science Society](https://tcss.soc.srcf.net) (2017-18)**, I developed and executed a strategy to advertise talks and events on 7 social media platforms weekly, doubling the mailing list reach and talk attendance during my first term in office.
 
