@@ -11,10 +11,19 @@ Altogether, these learning curves have consolidated my determination for kaizen 
 
 # Access potential 
 
-I am determined to support others in their own journey towards awareness, resilience and purpose. Over the past 4 years, I have mentored my peers through life transitions: University, summer internships, PhD research, and now, alternate routes across the innnovation ecosystem.
+I am determined to support others in their own journey towards awareness, resilience and purpose. 
 
-One of the highlights of my summers: volunteering at annual Residentials at Trinity College to encourage access to higher Education: [read more here](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/).
- 
+I mentor my peers through life transitions and learning curves:
+* Post-graduate routes across the innovation ecosystem from academia to corporates and SMEs
+* Applications for summer research projects, industrial internships, and PhD research
+*	The Natural Sciences Undergraduate degree at the University of Cambridge
+*	Access to Higher Education, UCAS applications and Oxbridge interviews
+* British Biology Olympiad and Finals
+
+Highlight: [volunteering on the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/).
+
+As a result, over the past 4 years, I have developed a bank of resources and presentations for Science Societies across the University of Cambridge and my Sixth Form Bio & Chem Society. Do reach out if you would be interested in accessing these.
+
 # Communicate understanding
 Over the past 5 years, I have founded, supported and led over 5 student societies.
 
