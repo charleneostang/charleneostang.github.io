@@ -11,7 +11,7 @@ Over the past 2 years, I have expanded my skill set across the innovation ecosys
 * Strategy consulting on market entry and launch of a disruptive gene therapy with IQVIA and the [Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge/projects) Insights programme
 * Marketing and recruitment for 12 corporate clients (including Marshall Wace, Fidelity International, Bain & Co, EY) with the [Wiser Academy](https://wearewiser.com/academy)
 * Data analysis and evaluation of patient/product experience with [Heartfelt Technologies](https://www.hftech.org)
-* Jane Street: [Women in Trading & Technology](https://www.janestreet.com/witt)
+* [Jane Street](https://www.janestreet.com): [Women in Trading & Technology](https://www.janestreet.com/witt)
 
 Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
 
