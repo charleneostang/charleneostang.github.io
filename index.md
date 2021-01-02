@@ -7,7 +7,8 @@ I am a scientist, generalist and tea enthusiast.
 I lead Business Development at [Cyted](cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
 
 When I'm not working, I am reading, playing music, and exploring. Wherever I am, a cup of tea is not far.
-
+  
+  
 ## Projects & Interests
 
 For a summary, you can [view my CV.](CV_Charlene_Tang_2021-01.pdf)
