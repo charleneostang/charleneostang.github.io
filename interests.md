@@ -17,12 +17,12 @@ I mentor my peers through life transitions and learning curves:
 * Post-graduate routes across the innovation ecosystem from academia to corporates and SMEs
 * Applications for summer research projects, industrial internships, and PhD research
 *	The Natural Sciences Undergraduate degree at the University of Cambridge
-*	Access to Higher Education, UCAS applications and Oxbridge interviews
+*	UCAS applications and Oxbridge interviews
 * British Biology Olympiad and Finals
 
-Highlight: [volunteering on the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/).
-
-As a result, over the past 4 years, I have developed a bank of resources and presentations for Science Societies across the University of Cambridge and my Sixth Form Bio & Chem Society. Do reach out if you would be interested in accessing these.
+This has grown through my Science Societies across the University of Cambridge, my Sixth Form Bio & Chem Society, volunteering for platforms such as [ProjectAccess.org](https://projectaccess.org), and volunteering for Trinity College Access & Outreach (highlight: [the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/)).
+ 
+As a result, over the past 4 years, I have developed a bank of resources and presentations. Please do reach out if you would be interested in accessing these.
 
 # Communicate understanding
 Over the past 5 years, I have founded, supported and led over 5 student societies.
