@@ -16,7 +16,6 @@ I am driven by increasing access to scientific understanding, technological adva
 
 For more information on my [Projects](projects.md) and [Interests](interests.md), you can also [view my CV.](CV_Charlene_Tang_2021-01.pdf)
 
-## Contact
-Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang). 
+Always enjoy chatting with like-minded individuals: check out my availability on [Calendly](https://calendly.com/charleneostang/30min).
 
-Always up for a chat, check out my availability on [Calendly](https://calendly.com/charleneostang/30min).
+<!-- Drop me an [email](emailto:charleneostang@yahoo.com) or message me on [LinkedIn](http://linkedin.com/in/charleneostang).
