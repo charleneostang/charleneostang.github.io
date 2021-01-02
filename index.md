@@ -4,7 +4,7 @@
    
 I am a scientist, generalist and tea enthusiast. 
 
-I lead Business Development at [Cyted](cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
+I lead Business Development at [Cyted](https://cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer.
 
 When I'm not working, I am reading, playing music, and exploring. Wherever I am, a cup of tea is not far.
 
