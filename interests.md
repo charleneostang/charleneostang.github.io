@@ -20,10 +20,10 @@ I mentor my peers through life transitions and learning curves:
 *	UCAS applications and Oxbridge interviews
 * [British Biology Olympiad](https://ukbiologycompetitions.org) and Finals
 
-This has grown through my Science Societies across the University of Cambridge, my Sixth Form Bio & Chem Society, volunteering for platforms such as [ProjectAccess.org](https://projectaccess.org), and volunteering for Trinity College Access & Outreach (highlight: [the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/)).
- 
-As a result, over the past 4 years, I have developed a bank of resources and presentations. Please do reach out if you would be interested in accessing these.
+Over the past 4 years, I have developed a bank of resources and presentations. Please do reach out if you would be interested in accessing these.
 
+This initiative has grown through my Science Societies across the University of Cambridge, my Sixth Form Bio & Chem Society, volunteering for platforms such as [ProjectAccess.org](https://projectaccess.org), and volunteering for Trinity College Access & Outreach (highlight: [the Stonehouse residential](https://www.trin.cam.ac.uk/news/why-volunteering-on-the-stonehouse-residential-was-the-highlight-of-my-summer/)).
+ 
 # Communicate understanding
 Over the past 5 years, I have founded, supported and led over 5 student societies.
 
