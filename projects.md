@@ -21,11 +21,11 @@ I have gathered over 15 months of academic research experience, from tumour immu
 1. Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation
   * Masters' thesis research with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan)
 2. The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
-  * Summer research with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar)) funded by Trinity College, Cambridge
+  * Summer research with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar) funded by Trinity College, Cambridge
 3. P2Y6 receptor defiency is partially protective against synapse loss in aging mouse brains
-  * Bachelors' thesis research with [Professor Guy Brown](https://www.bioc.cam.ac.uk/research/brown))
+  * Bachelors' thesis research with [Professor Guy Brown](https://www.bioc.cam.ac.uk/research/brown)
 4. A bioinformatic analysis and literature review of transcriptional regulatory elements across single stranded RNA viruses
-  * Wellcome Trust-funded summer research with [Dr Andrew Firth](https://www.path.cam.ac.uk/directory/andrew-firth))
+  * Wellcome Trust-funded summer research with [Dr Andrew Firth](https://www.path.cam.ac.uk/directory/andrew-firth)
 5. Directed evolution of a self-replicating RNA enzyme to investigate the RNA world hypothesis
   * MRC-funded summer research with [Dr Philipp Holliger](https://www2.mrc-lmb.cam.ac.uk/groups/ph1/) (Laboratory of Molecular Biology)
 6. Cross-talk between the Integrated Stress Response and BMP signalling across mice and *Drosophila*
