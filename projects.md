@@ -9,7 +9,7 @@ In my  am currently working on:
 
 # Business projects
 
-I lead Business Development at [Cyted](https://cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer. I joined two weeks after completing my Masters examinations, and our team of 10 is now over 28-strong. Here, my responsibilities include developing business strategy and growth, building commercial and research partnerships, managing customer relationships, as well as designing our communications, marketing and brand strategy.
+I lead Business Development at [Cyted](https://cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer. I joined two weeks after completing my Masters examinations, and our team of 10 is now near 40-strong. Here, my responsibilities include developing business strategy and growth, building commercial and research partnerships, managing customer relationships, as well as designing our communications, marketing and brand strategy.
 
 Over the past 3 years, I have expanded my skill set across the innovation ecosystem through:
 * [ActivateBio 2021](https://www.activate.bio) - a 3-month pitch competition and mentorship programme with the Harvard Business School
