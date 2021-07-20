@@ -1,10 +1,18 @@
 For more detail, you can view [my CV](CV_Charlene_Tang_2021-01.pdf). In sum:
 
+<!--- # Side projects
+
+In my  am currently working on:
+* Proof-of-concept validation for a side-venture at the intersection of synthetic XNA biology and cancer immunotherapeutics
+* Community building as Director of Alumni Development & Engagement at the Global Biotech Revolution
+* Plus the process of applying for probate --->
+
 # Business projects
 
 I lead Business Development at [Cyted](https://cyted.ai), a provider of digital diagnostics infrastructure to revolutionise the early detection of cancer. I joined two weeks after completing my Masters examinations, and our team of 10 is now over 28-strong. Here, my responsibilities include developing business strategy and growth, building commercial and research partnerships, managing customer relationships, as well as designing our communications, marketing and brand strategy.
 
-Over the past 2 years, I have expanded my skill set across the innovation ecosystem through:
+Over the past 3 years, I have expanded my skill set across the innovation ecosystem through:
+* [ActivateBio 2021](https://www.activate.bio) - a 3-month pitch competition and mentorship programme with the Harvard Business School
 * Due diligence for seed investment into early stage healthcare companies with the [Start Codon Accelerator](https://startcodon.co)
 * [Gap Summit 2020](https://www.gapsummit.com) - an international, 10 month, virtual pitch competition and conference with the [Global Biotech Revolution](http://globalbiotechrevolution.com)
 * 48h-pitch competitions at the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/venture-creation-weekends-vcw/)
