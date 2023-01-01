@@ -31,30 +31,30 @@ From my previous projects and roles in the company, I also work on:
 * and global market access strategy.
 
 Over the past 3 years, I have expanded my skill set across the innovation ecosystem through side-projects:
-* Building AptaBridge, a biotech venture developing new immuno-oncology therapeutics, incorporated with co-founders in the US
-* [ActivateBio 2021](https://www.activate.bio) - a 3-month pitch competition and mentorship programme with the Harvard Business School (now [Nucleate](https://nucleate.xyz))
-* Due diligence for seed investment into early stage healthcare companies with the [Start Codon Accelerator](https://startcodon.co)
-* [Gap Summit 2020](https://www.gapsummit.com) - an international, 10 month, virtual pitch competition and conference with the [Global Biotech Revolution](http://globalbiotechrevolution.com)
-* 48h-pitch competitions at the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/venture-creation-weekends-vcw/)
-* Strategy consulting on market entry and launch of a disruptive gene therapy with IQVIA and the [Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge/projects) Insights programme
-* Marketing and recruitment for 12 corporate clients (including Marshall Wace, Fidelity International, Bain & Co, EY) with the [Wiser Academy](https://wearewiser.com/academy)
-* Data analysis and evaluation of patient/product experience with [Heartfelt Technologies](https://www.hftech.org)
-* [Jane Street](https://www.janestreet.com): [Women in Trading & Technology](https://www.janestreet.com/witt)
+* 2020-present: Building AptaBridge, a biotech venture developing new immuno-oncology therapeutics, incorporated with co-founders in the US
+* 2021: [ActivateBio](https://www.activate.bio) - a 3-month pitch competition and mentorship programme with the Harvard Business School (now [Nucleate](https://nucleate.xyz))
+* 2020: Due diligence for seed investment into early stage healthcare companies with the [Start Codon Accelerator](https://startcodon.co)
+* 2020: [Gap Summit](https://www.gapsummit.com) - an international, 10 month, virtual pitch competition and conference with the [Global Biotech Revolution](http://globalbiotechrevolution.com)
+* 2019-2020: 48h-pitch competitions at the [Cambridge Judge Business School](https://www.jbs.cam.ac.uk/entrepreneurship/programmes/venture-creation-weekends-vcw/)
+* 2019: Strategy consulting on market entry and launch of a disruptive gene therapy with IQVIA and the [Cambridge Consulting Network](https://www.cambridgeconsultingnetwork.co/cambridge/projects) Insights programme
+* 2019: Marketing and recruitment for 12 corporate clients (including Marshall Wace, Fidelity International, Bain & Co, EY) with the [Wiser Academy](https://wearewiser.com/academy)
+* 2019: Data analysis and evaluation of patient/product experience with [Heartfelt Technologies](https://www.hftech.org)
+* 2018: [Jane Street](https://www.janestreet.com): [Women in Trading & Technology](https://www.janestreet.com/witt)
 
 Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
 
 # Research Projects
 I have gathered over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
 
-1. Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation
+1. 2019-2020: Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation
   * Masters' thesis research with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan)
-2. The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
+2. 2019: The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
   * Summer research with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar) funded by Trinity College, Cambridge
-3. P2Y6 receptor defiency is partially protective against synapse loss in aging mouse brains
+3. 2018-2019: P2Y6 receptor defiency is partially protective against synapse loss in aging mouse brains
   * Bachelors' thesis research with [Professor Guy Brown](https://www.bioc.cam.ac.uk/research/brown)
-4. A bioinformatic analysis and literature review of transcriptional regulatory elements across single stranded RNA viruses
+4. 2018: A bioinformatic analysis and literature review of transcriptional regulatory elements across single stranded RNA viruses
   * Wellcome Trust-funded summer research with [Dr Andrew Firth](https://www.path.cam.ac.uk/directory/andrew-firth)
-5. Directed evolution of a self-replicating RNA enzyme to investigate the RNA world hypothesis
+5. 2017: Directed evolution of a self-replicating RNA enzyme to investigate the RNA world hypothesis
   * MRC-funded summer research with [Dr Philipp Holliger](https://www2.mrc-lmb.cam.ac.uk/groups/ph1/) (Laboratory of Molecular Biology)
-6. Cross-talk between the Integrated Stress Response and BMP signalling across mice and *Drosophila*
+6. 2016: Cross-talk between the Integrated Stress Response and BMP signalling across mice and *Drosophila*
   * Summer research with [Professor Stefan Marciniak](https://www.cimr.cam.ac.uk/research/principal-investigators/marciniak) (Cambridge Institute of Medical Research)
