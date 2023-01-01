@@ -45,7 +45,7 @@ Through these challenging yet inspiring successes, I realised that I thrive in h
 I have over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
 
 1. 2019-2020: Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation
-  * Masters' thesis research with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan)
+  * Masters' thesis research with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan), now at [the Crick Institute](https://www.crick.ac.uk) in London
 2. 2019: The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
   * Summer research with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar) funded by Trinity College, Cambridge
 3. 2018-2019: P2Y6 receptor defiency is partially protective against synapse loss in aging mouse brains
