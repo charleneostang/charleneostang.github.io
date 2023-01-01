@@ -3,9 +3,11 @@ I am driven by overcoming life challenges. I have navigated cultural dynamics an
 
 * I am mixed (half Chinese, half Irish) and grew up in 5 countries across 3 continents (HK, Singapore, Korea, Brazil, UK). This empowers me to bridge the gap betweeen contrasting approaches. 
 
-* My mother was diagnosed with late-stage cervical cancer in 2009 and passed away a year later. Following the confusion surrounding her diagnosis and treatment options, I dedicated my learnings and [research projects](projects.md) to understanding scientfic principles and furthering technological advances.
+* In 2009, my mother was diagnosed with late-stage cervical cancer and sadly passed away within a year. Following the confusion surrounding her diagnosis and treatment options, I dedicated my learnings and [research projects](projects.md) to understanding scientfic principles and furthering technological advances.
 
-* In 2016, my father presented with heart failure and subsequently suffered from a series of strokes. This fuelled my time at [Heartfelt Technologies](https://www.hftech.org), a MedTech developing an in-home monitoring device to predict heart failure hospitalisation, where I evaluated their technology by talking to the team, patients and their carers. He sadly passed away in 2021 due to his condition.  
+* In 2016, my father presented with heart failure and subsequently suffered from a series of strokes. This fuelled my time at [Heartfelt Technologies](https://www.hftech.org), a MedTech developing an in-home monitoring device to predict heart failure hospitalisation, where I evaluated their technology by talking to the team, patients and their carers. 
+
+* In 2021, my father sadly passed away when his condition deterioriated unexpectedly. Over the past 2 years, I have led on securing Grant of Probates and managing the international Estate my younger sister and I have inherited.
 
 Altogether, these experiences drive me to put life-changing innovations in the hands of patients like my parents, from technologies for early diagnosis and prevention to novel therapeutic modalities. These learning curves have consolidated my determination for kaizen (constant improvement) in myself and those I reach.
 
