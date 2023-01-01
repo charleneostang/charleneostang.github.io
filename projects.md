@@ -22,7 +22,7 @@ In 2021/22 I also:
 
 # Business Development Experience
 
-I lead Business Development at [Cyted](https://cyted.ai). Here, I am responsible for our commercial growth & strategy across the UK, which focuses on partnerships with the NHS and other organizations.
+At [Cyted](https://cyted.ai), I am responsible for our commercial growth & strategy across the UK, which focuses on partnerships with the NHS and other organizations.
 
 From my previous projects and roles in the company, I also work on:
 * clinical service design and improvement,
