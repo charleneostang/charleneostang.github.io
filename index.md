@@ -8,7 +8,7 @@ I lead Business Development at [Cyted](https://cyted.ai), a provider of digital 
 
 When I'm not working, I am likely pursuing one of my side projects, reading about something new, or exploring on foot. Wherever I am, a cup of tea is not far.
 
-For more information on my [Projects](projects.md) and [Interests](interests.md), you can also [view my CV.](CV_Charlene_Tang_2021-01.pdf)
+For more information on my [Projects](projects.md) and [Interests](interests.md), you can also [view my CV.](CV_Charlene_Tang_2022-10.pdf)
 
 I graduated from Trinity College, University of Cambridge with a First-in-Class Masters in Natural Sciences, where I specialised in Biochemistry. 
 
