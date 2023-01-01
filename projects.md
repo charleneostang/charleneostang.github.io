@@ -1,4 +1,4 @@
-For more detail, you can [view my CV.](CV_Charlene_Tang_2022-10.pdf). In sum:
+For more detail, you can [view my CV](CV_Charlene_Tang_2022-10.pdf). In sum:
 
 <!--- # Side projects
 
