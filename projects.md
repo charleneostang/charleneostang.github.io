@@ -22,9 +22,7 @@ In 2021/22 I also:
 
 # Business Development Experience
 
-At [Cyted](https://cyted.ai), I am responsible for our commercial growth & strategy across the UK, which focuses on partnerships with the NHS and other organizations.
-
-From my previous projects and roles in the company, I also work on:
+At [Cyted](https://cyted.ai), I am responsible for our commercial growth & strategy across the UK, which focuses on partnerships with the NHS and other organizations. From my previous projects and roles in the company, I also work on:
 * clinical service design and improvement,
 * real word data and analytics,
 * product marketing & communications,
@@ -44,7 +42,7 @@ Over the past 3 years, I have expanded my skill set across the innovation ecosys
 Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
 
 # Research Projects
-I have gathered over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
+I have over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
 
 1. 2019-2020: Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation
   * Masters' thesis research with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan)
