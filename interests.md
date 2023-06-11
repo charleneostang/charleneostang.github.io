@@ -1,3 +1,7 @@
+<img src="Pitch at Royal Institution.jpeg"
+     alt="Profile photo"
+     style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
+
 # Constant improvement
 I am driven by overcoming life challenges. I have navigated cultural dynamics and survived family health emergencies by making these barriers my fuel. 
 
