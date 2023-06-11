@@ -1,4 +1,4 @@
-For more detail, you can [view my CV](CV_Charlene_Tang_2022-10.pdf). In sum:
+For more detail, you can [view my CV](CV_Charlene_Tang_2023-06.pdf). In sum:
 
 # Side projects
 
@@ -10,11 +10,16 @@ I am currently working on:
 * Exploring new ventures as a [Polaris Fellow at Entrepreneur First](https://www.polaris-fellowship.com)
 * Plus managing an international Estate that my sister & I have inherited 
 
+<p float="middle">
+  <img src="Charlene at London Half Marathon 2023.jpg" width=45% />
+  <img src="Pottery collection 2023.jpg" width=45% /> 
+</p>
+
 # Research Projects
 I have over 15 months of research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
 
 1. 2019-2020: Masters' thesis research on tuumour development and immunotherapeutic targets with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan), now at [the Crick Institute](https://www.crick.ac.uk) in London
-  * Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation 
+  * IL-33 immune signalling is necessary for lung tumour regression following oncogene deactivation 
 2. 2019: Summer research on tumour development and immunology with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar) funded by Trinity College, Cambridge 
   * The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
 3. 2018-2019: Bachelors' thesis research on neurodegernation with [Professor Guy Brown](https://www.bioc.cam.ac.uk/research/brown) 
