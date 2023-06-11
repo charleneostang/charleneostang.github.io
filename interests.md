@@ -1,5 +1,5 @@
 <img src="Pitch at Royal Institution.jpeg"
-     alt="Profile photo"
+     alt="Pitch at Royal Institution"
      style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
 
 # Constant improvement
