@@ -1,15 +1,32 @@
 For more detail, you can [view my CV](CV_Charlene_Tang_2022-10.pdf). In sum:
 
-<!--- # Side projects
+# Side projects
 
 I am currently working on:
 * Training for a half-marathon in 2023
-* Building my own collection of pottery 
+* Building my collection of my own pottery 
 * Implementing Strategic Selling principles from Miller Heiman at Cyted
 * Refining Go-To-Market strategies as a Fellow at the [Product Marketing Alliance](https://www.productmarketingalliance.com)
 * Exploring new ventures as a [Polaris Fellow at Entrepreneur First](https://www.polaris-fellowship.com)
 * Plus managing an international Estate that my sister & I have inherited 
 
+# Research Projects
+I have over 15 months of research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
+
+1. 2019-2020: Masters' thesis research on tuumour development and immunotherapeutic targets with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan), now at [the Crick Institute](https://www.crick.ac.uk) in London
+  * Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation 
+2. 2019: Summer research on tumour development and immunology with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar) funded by Trinity College, Cambridge 
+  * The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
+3. 2018-2019: Bachelors' thesis research on neurodegernation with [Professor Guy Brown](https://www.bioc.cam.ac.uk/research/brown) 
+  * P2Y6 receptor defiency is partially protective against synapse loss in aging mouse brains 
+4. 2018: Summer research with [Dr Andrew Firth](https://www.path.cam.ac.uk/directory/andrew-firth) funded by the Wellcome Trust
+  * A bioinformatic analysis and literature review of transcriptional regulatory elements across single stranded RNA viruses 
+5. 2017: Summer research with [Dr Philipp Holliger](https://www2.mrc-lmb.cam.ac.uk/groups/ph1/) (Laboratory of Molecular Biology) funded by the Medical Research Council
+  * Directed evolution of a self-replicating RNA enzyme to investigate the RNA world hypothesis 
+6. 2016: Summer research with [Professor Stefan Marciniak](https://www.cimr.cam.ac.uk/research/principal-investigators/marciniak) (Cambridge Institute of Medical Research)
+  * Cross-talk between the Integrated Stress Response and BMP signalling across mice and *Drosophila* cell lines 
+
+<!--- 
 In 2021/22 I also:
 * Proof-of-concept validation for a side-venture at the intersection of synthetic XNA biology and cancer immunotherapeutics
 * Community building as Director of Alumni Development & Engagement at the Global Biotech Revolution
@@ -18,7 +35,6 @@ In 2021/22 I also:
 * and cross-functional initiatives
 * that contribute to
 
---->
 
 # Business Development Experience
 
@@ -41,18 +57,4 @@ Over the past 3 years, I have expanded my skill set across the innovation ecosys
 
 Through these challenging yet inspiring successes, I realised that I thrive in high-intensity environments with a continual demand to learn, adapt, and deliver. 
 
-# Research Projects
-I have over 15 months of academic research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
-
-1. 2019-2020: Interleukin immune signalling is necessary for lung tumour regression following oncogene deactivation
-  * Masters' thesis research with [Professor Gerard Evan](https://www.bioc.cam.ac.uk/research/evan), now at [the Crick Institute](https://www.crick.ac.uk) in London
-2. 2019: The role of HPV in dysregulation of epithelial homeostasis in early cervical cancer
-  * Summer research with [Professor John Doorbar](https://www.path.cam.ac.uk/directory/john-doorbar) funded by Trinity College, Cambridge
-3. 2018-2019: P2Y6 receptor defiency is partially protective against synapse loss in aging mouse brains
-  * Bachelors' thesis research with [Professor Guy Brown](https://www.bioc.cam.ac.uk/research/brown)
-4. 2018: A bioinformatic analysis and literature review of transcriptional regulatory elements across single stranded RNA viruses
-  * Wellcome Trust-funded summer research with [Dr Andrew Firth](https://www.path.cam.ac.uk/directory/andrew-firth)
-5. 2017: Directed evolution of a self-replicating RNA enzyme to investigate the RNA world hypothesis
-  * MRC-funded summer research with [Dr Philipp Holliger](https://www2.mrc-lmb.cam.ac.uk/groups/ph1/) (Laboratory of Molecular Biology)
-6. 2016: Cross-talk between the Integrated Stress Response and BMP signalling across mice and *Drosophila*
-  * Summer research with [Professor Stefan Marciniak](https://www.cimr.cam.ac.uk/research/principal-investigators/marciniak) (Cambridge Institute of Medical Research)
+--->
