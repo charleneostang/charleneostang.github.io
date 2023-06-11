@@ -1,5 +1,9 @@
 For more detail, you can [view my CV](CV_Charlene_Tang_2023-06.pdf). In sum:
 
+<img src="Charlene at London Half Marathon 2023.jpg"
+     alt="Charlene at London Half Marathon 2023"
+     style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
+
 # Side projects
 
 I am currently working on:
@@ -9,15 +13,6 @@ I am currently working on:
 * Refining Go-To-Market strategies as a Fellow at the [Product Marketing Alliance](https://www.productmarketingalliance.com)
 * Exploring new ventures as a [Polaris Fellow at Entrepreneur First](https://www.polaris-fellowship.com)
 * Plus managing an international Estate that my sister & I have inherited 
-
-<p float="middle">
-  <img src="Charlene at London Half Marathon 2023.jpg" width=45% />
-  <img src="Pottery collection 2023.jpg" width=45% /> 
-</p>
-
-<img src="Charlene at London Half Marathon 2023.jpg"
-     alt="Charlene at London Half Marathon 2023"
-     style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
 
 <img src="Pottery collection 2023.jpg"
      alt="Pottery collection 2023"
