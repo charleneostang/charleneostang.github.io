@@ -1,4 +1,4 @@
-<img src="Pitch at Royal Institution.jpeg"
+<img src="Pitch at Royal Insitution.jpeg"
      alt="Pitch at Royal Institution"
      style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
 
