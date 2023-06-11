@@ -15,6 +15,14 @@ I am currently working on:
   <img src="Pottery collection 2023.jpg" width=45% /> 
 </p>
 
+<img src="Charlene at London Half Marathon 2023.jpg"
+     alt="Charlene at London Half Marathon 2023"
+     style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
+
+<img src="Pottery collection 2023.jpg"
+     alt="Pottery collection 2023"
+     style="float: right; width: 50%; margin-left: 20px; margin-bottom: 10px;" />
+
 # Research Projects
 I have over 15 months of research experience, from tumour immunology and virology, to bioinformatics and synthetic biology.
 
