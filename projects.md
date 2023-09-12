@@ -1,4 +1,4 @@
-For more detail, you can [view my CV](CV_Charlene_Tang_2023-06.pdf). In sum:
+For more detail, you can [view my CV](CV_Charlene_Tang_2023-09-3pg.pdf). In sum:
 
 <img src="Charlene at London Half Marathon 2023.jpg"
      alt="Charlene at London Half Marathon 2023"
