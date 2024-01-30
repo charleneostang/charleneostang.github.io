@@ -1,4 +1,4 @@
-For more detail, you can [view my CV](CV_Charlene_Tang_2023-09-3pg.pdf). In sum:
+For more detail, you can [view my CV](Charlene Tang - CV - 2024-01.pdf). In sum:
 
 <img src="Charlene at London Half Marathon 2023.jpg"
      alt="Charlene at London Half Marathon 2023"
@@ -7,12 +7,13 @@ For more detail, you can [view my CV](CV_Charlene_Tang_2023-09-3pg.pdf). In sum:
 # Side projects
 
 I am currently working on:
-* Training for a half-marathon in 2023
-* Building my collection of my own pottery 
-* Implementing Strategic Selling principles from Miller Heiman at Cyted
-* Refining Go-To-Market strategies as a Fellow at the [Product Marketing Alliance](https://www.productmarketingalliance.com)
-* Exploring new ventures as a [Polaris Fellow at Entrepreneur First](https://www.polaris-fellowship.com)
-* Plus managing an international Estate that my sister & I have inherited 
+* Training for a half-marathon (Cambridge Mar '24; previously: Cambridge Mar '23; London April '23)
+* Building my collection of my own pottery (at The Kiln, Cambridge)
+* Exploring my healthtech venture thesis as a [Polaris Fellow at Entrepreneur First](https://www.polaris-fellowship.com)
+* Managing an international Estate that my sister & I have inherited 
+* And planning my 2024 travels...
+  
+2023 featured: all corners of the UK, Romania, Japan, Valencia, Ireland, Hong Kong, Singapore and Indonesia (on behalf of the British Embassy - more to come on this project!).
 
 <img src="Pottery collection 2023.jpg"
      alt="Pottery collection 2023"
@@ -35,6 +36,10 @@ I have over 15 months of research experience, from tumour immunology and virolog
   * Cross-talk between the Integrated Stress Response and BMP signalling across mice and *Drosophila* cell lines 
 
 <!--- 
+* Applying insights from Negotiation Mastery & Healthcare Economics with Harvard Business School Online
+* Implementing Strategic Selling principles from Miller Heiman at Cyted
+* Refining Go-To-Market strategies as a Fellow at the [Product Marketing Alliance](https://www.productmarketingalliance.com)
+
 In 2021/22 I also:
 * Proof-of-concept validation for a side-venture at the intersection of synthetic XNA biology and cancer immunotherapeutics
 * Community building as Director of Alumni Development & Engagement at the Global Biotech Revolution
