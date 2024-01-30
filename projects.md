@@ -7,7 +7,7 @@ For more detail, you can [view my CV](Charlene Tang - CV - 2024-01.pdf). In sum:
 # Side projects
 
 I am currently working on:
-* Training for a half-marathon (next: Cambridge Mar '24; previously: Cambridge Mar '23; London April '23)
+* Training for a half-marathon (next: Cambridge Mar24; previously: Cambridge Mar23, London Apr23)
 * Building my collection of my own pottery (at The Kiln, Cambridge)
 * Exploring my healthtech venture thesis as a [Polaris Fellow at Entrepreneur First](https://www.polaris-fellowship.com)
 * Managing an international Estate that my sister & I have inherited 
